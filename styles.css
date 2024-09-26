@@ -48,7 +48,7 @@ body {
 
 .navoptions .nav-link.active
 {
-    color: #ff7a57;
+    color: #2d988e;
     font-size: 13px;
     font-weight: bold;
 }
@@ -66,14 +66,14 @@ body {
     border-radius: 30px!important;
     width: 83px;
     height: 41px;
-    background-color: #ff7a57;
+    background-color: #2d988e;
     cursor: pointer;
     color: white;
     font-weight: bold;
     border: none;
     overflow: visible;
     font-size: 17px;
-    border-color: #ff7a57;
+    border-color: #2d988e;
 }
 
 .hv
@@ -87,7 +87,7 @@ body {
     background-color: #343a40;
     color: white;
     font-size: 17px;
-    border-color: #ff7a57;
+    border-color: #2d988e;
     overflow: visible;
 
 }
@@ -106,7 +106,7 @@ body {
 
 .social-item
 {
-    color: #ff7a57;
+    color: #2d988e;
     text-decoration: none;
     border: solid;
     border-radius: 26px;
